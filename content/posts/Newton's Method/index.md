@@ -1,6 +1,6 @@
 +++
 date = '2025-02-01T12:42:13-05:00'
-draft = true
+draft = false
 title = "Newton's Method"
 +++
 Want to try something new, make a change, or build a thing? Just
