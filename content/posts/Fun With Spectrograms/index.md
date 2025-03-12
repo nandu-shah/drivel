@@ -11,7 +11,7 @@ A spectrogram is a visual representation of waves, showing frequencies over time
 
 But the interesting part of that particular recording--the earthquake--consists of frequencies below 10 Hz. Human hearing bottoms out around 20 Hz, so, while we can grok what that image means, it's hard to get a good, intuitive sense of what's going on.
 
-Luckily, I have another Raspberry Pi in my that runs [Birdnet-Pi](https://github.com/mcguirepr89/BirdNET-Pi) and identifies birds by the sounds they make. Those we *can* hear!
+Luckily, I have another Raspberry Pi that runs [Birdnet-Pi](https://github.com/mcguirepr89/BirdNET-Pi) and identifies birds by the sounds they make. Those we *can* hear!
 Check this one out--it's from a barred owl, and you can listen as you examine the image:
 
 ![Barred owl](Barred_Owl-100-2025-02-26-birdnet-03_31_48.mp3.png)
